@@ -1,0 +1,11 @@
+{
+  "name": "Demo Theme",
+  "about_url": "tbd",
+  "license_url": "",
+  "version": "0.1",
+  "component": false,
+  "authors": "merefield@gmail.com",
+  "assets": {
+    "main_background": "assets/background.png"
+  }
+}
